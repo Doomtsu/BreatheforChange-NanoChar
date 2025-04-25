@@ -83,10 +83,6 @@ Please reach out or submit a pull request.
 - **Website**: [www.nanochar.org](https://www.nanochar.org)
 - **Location**: New York, NY
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Environmental Protection Agency
